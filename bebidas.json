@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Skyy",
+        "precio": 2000,
+        "img": "assets/skyy.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Smirnoff",
+        "precio": 2000,
+        "img": "assets/smirnoff.jpg"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Quilmes",
+        "precio": 1000,
+        "img": "assets/quilmes.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Corona",
+        "precio": 1000,
+        "img": "assets/corona.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Jack Daniels",
+        "precio": 3000,
+        "img": "assets/jack.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Jagermeister",
+        "precio": 4000,
+        "img": "assets/jager.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Blue Label",
+        "precio": 5000,
+        "img": "assets/blue.jpg"
+    }
+    
+
+]

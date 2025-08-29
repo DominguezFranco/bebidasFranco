@@ -37,8 +37,8 @@ h1{
 #carritoOculto {
     position: fixed;
     top: 0;
-    right: -300px; /* fuera de la pantalla */
-    width: 300px;
+    right: -400px; /* fuera de la pantalla */
+    width: 400px;
     height: 100%;
     background: white;
     box-shadow: -2px 0 5px rgba(0,0,0,0.2);
@@ -91,9 +91,10 @@ h1{
 }
 
 .card{
-    width: 200px;
+    width: 150px;
     border: 1px solid #ccc;
     padding: 10px;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -115,7 +116,40 @@ h1{
     height: 80px;
 }
 
+.precio{
+    padding: 5px;
+}
+.cantidad{
+    padding: 5px;
+}
+
+.boton-eliminar{
+    background-color: #918e8e;
+    border: none;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    border: 3px solid #fff;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 .boton-vaciar{
+    background-color: #918e8e;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    border: 3px solid #fff;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.boton-terminar-compra{
     background-color: #918e8e;
     border: none;
     color: #fff;
